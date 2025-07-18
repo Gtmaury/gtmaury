@@ -1,6 +1,6 @@
 ### ¡Hola, soy Mauricio 👋
 
-![imagen de codigo](https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg "Código") 
+<img src="https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg" alt="imagen de codigo" width="800" height="380"/>
 
 Actualmente estoy en una misión para convertirme en un desarrollador web, armado con un teclado y una cantidad industrial de café ☕. Mi viaje de autoaprendizaje me ha llevado por los increíbles mundos de:
 
@@ -30,4 +30,4 @@ Estoy enfocado en dominar las bases del desarrollo web. ¡Todo gran edificio nec
 
 ¡Siempre estoy abierto a colaborar en proyectos interesantes y a aprender de otros desarrolladores! Puedes encontrarme por aquí o en [LinkedIn](https://www.linkedin.com/in/mauricio-gonzalez-1a5b8933b/).
 
-¡Gracias por visitar mi perfil! 
+¡Gracias por visitar mi perfil!
